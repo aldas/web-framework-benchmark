@@ -9,3 +9,9 @@
 ```sh
 go test -bench=.
 ```
+
+or
+
+```shell
+make
+```
